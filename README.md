@@ -57,10 +57,16 @@
 
 ### **Development Tools & IDEs**
 <p align="left">
-  <img src="https://img.utdstc.com/icon/572/79c/57279caf8af06fd8bdeb8fd23b65284d882ff0555ad85a5389b08ab50504569a:100" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
-  <img src="https://img.shields.io/badge/Antigravity-6B21A8?style=for-the-badge&logo=antigravity&logoColor=white" alt="Antigravity"/>
+  <!-- VS Code (works) -->
+  <img src="https://img.shields.io/badge/VS_Code-0078D4.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+
+  <!-- Cursor (may or may not exist in Simple Icons; if it doesn't, you'll need a custom logo too) -->
+  <img src="https://img.shields.io/badge/Cursor-000000.svg?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
+
+  <!-- Antigravity (custom logo) -->
+  <img src="https://img.shields.io/badge/Antigravity-6B21A8.svg?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI%2BCiAgPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTMyIDYgNDYgMjBoLTl2MjBIMjdWMjBoLTl6Ii8%2BCiAgPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTE0IDUwaDM2djhIMTR6Ii8%2BCjwvc3ZnPg%3D%3D" alt="Antigravity"/>
 </p>
+
 
 ### **CMS & Other Technologies**
 <p align="left">
