@@ -57,7 +57,7 @@
 
 ### **Development Tools & IDEs**
 <p align="left">
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=vscode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.utdstc.com/icon/572/79c/57279caf8af06fd8bdeb8fd23b65284d882ff0555ad85a5389b08ab50504569a:100" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
   <img src="https://img.shields.io/badge/Antigravity-6B21A8?style=for-the-badge&logo=antigravity&logoColor=white" alt="Antigravity"/>
 </p>
