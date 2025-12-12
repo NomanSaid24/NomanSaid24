@@ -49,23 +49,22 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-</p>
-
-### **Development Tools & IDEs**
-<p align="left">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
 </p>
 
+### **Development Tools & IDEs**
+<p align="left">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
+</p>
+
 ### **CMS & Other Technologies**
 <p align="left">
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
   <img src="https://img.shields.io/badge/Wix-000000?style=for-the-badge&logo=wix&logoColor=white" alt="Wix"/>
-  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=api&logoColor=white" alt="REST API"/>
   <img src="https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="SEO"/>
   <img src="https://img.shields.io/badge/Microsoft_Office_365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Office 365"/>
 </p>
@@ -91,9 +90,9 @@
 - 📊 **Data Management** - Efficient data handling and processing
 
 ### 🤖 **Advanced Capabilities**
-- 🧠 **AI Integration** - Implementing AI models in web applications
+- 🧠 **AI Integration** - Implementing AI models in web applications (learning)
 - 🗺️ **Mapping & Geolocation** - Interactive maps and location-based features
-- 📡 **Real-time Features** - WebSockets and live data streaming
+- 📡 **Real-time Features** - WebSockets and live data streaming (learning)
 - 🔗 **Third-party Integrations** - Payment gateways, social media APIs
 - 📈 **Analytics Integration** - Google Analytics, custom tracking solutions
 - 🛠️ **Custom Solutions** - Building tailored systems for specific business needs
@@ -117,7 +116,7 @@
 
 ### 🏢 **Creative IT Park** - *Web Developer*
 **Jan 2025 - Present** | Islamabad, Pakistan
-- Developing full-stack applications using Laravel, React.js, Vue.js, and Next.js
+- Developing full-stack applications using Laravel, Php, Javascript, React.js, Vue.js, and Next.js
 - Implementing responsive designs with Tailwind CSS and Bootstrap
 - Working with MongoDB and MySQL databases for data management
 - Creating animations and interactive experiences with GSAP
